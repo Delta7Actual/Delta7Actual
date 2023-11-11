@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delta7Actual</h1>
 <h3 align="center">A Front-End developer and Tech Craftsman</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delta7actual&label=Profile%20views&color=0e75b6&style=flat" alt="delta7actual" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 - 🔭 I’m currently working on [UCI - Unity Crafted Indies](https://github.com/Delta7Actual/Unity-Crafted-Indies)
 
 - 🌱 I’m currently learning **React JS**
