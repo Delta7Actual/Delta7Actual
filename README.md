@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Delta7Actual</h1>
-<h3 align="center">A Front-End developer and Tech Craftsman</h3>
+<h3 align="center">A Full-Stack developer and Tech Craftsman</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delta7actual&label=Profile%20views&color=0e75b6&style=flat" alt="delta7actual" /> </p>
 
 - 🔭 I’m currently working on [UCI - Unity Crafted Indies](https://github.com/Delta7Actual/Unity-Crafted-Indies)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React and Node.js**
 
-- 💬 Ask me about **C#, Python, Front-End**
+- 💬 Ask me about **C#, Python, Full-Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
