@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack developer and Tech Craftsman</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delta7actual&label=Profile%20views&color=0e75b6&style=flat" alt="delta7actual" /> </p>
 
-- 🔭 I’m currently working on [PySharp](https://github.com/Delta7Actual/PySharp) - **A new language combining Python and C-Sharp!**
+- 🔭 I’m currently working on I-Sentinel - **A new Network Diagnostic and information tool!**
 
 - 🌱 I’m currently learning **React and Node.js**
 
