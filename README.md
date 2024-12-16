@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **HTTPRanger, a .NET C# library designed to assist with http requests.**
 
+- 🔎 I'm currently learning **C** and low level code management.
+
 - 📫 How to reach me **dror8464@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
