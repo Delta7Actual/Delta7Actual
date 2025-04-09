@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delta7actual&label=Profile%20views&color=0e75b6&style=flat" alt="delta7actual" /> </p>
 
-- 🔭 I’m currently working on **HTTPRanger, a .NET C# library designed to assist with http requests.**
+- 🔭 I’m currently working on **SNASM, a simplified X86 ASM assembler and emulator.**
 
-- 🔎 I'm currently learning **C** and low level code management.
+- 🔎 I'm currently learning **GO**.
 
 - 📫 How to reach me **dror8464@gmail.com**
 
