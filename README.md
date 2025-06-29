@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delta7actual&label=Profile%20views&color=0e75b6&style=flat" alt="delta7actual" /> </p>
 
-- 🔭 I’m currently working on **SNASM, a simplified X86 ASM assembler and emulator.**
+- 🔭 I’m currently working on **SNVM32 and the Super-Neat Environment.**
 
 - 🔎 I'm currently learning **GO**.
 
