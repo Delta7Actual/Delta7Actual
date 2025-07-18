@@ -23,7 +23,7 @@
 ---
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Delta7Actual&theme=transparent&show_icons=true&rank_icon=github&include_all_commits" alt="GitHub Stats" width="49%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Delta7Actual&theme=transparent&show_icons=true&rank_icon=github&include_all_commits" alt="GitHub Stats" width="65%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta7Actual&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 <br clear="both" />
