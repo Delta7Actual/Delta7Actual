@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Dror Sheffer!</h1>
 <h3 align="center">Developer and researcher working on low-level systems, application development, and security analysis.</h3>
-<h5>Note: Commits look a bit uneven due to a recent repository migration.</h5>
 
 ---
 
