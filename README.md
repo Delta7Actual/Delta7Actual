@@ -1,31 +1,30 @@
-
 <div align="left">
 <br/>
   <img src="https://komarev.com/ghpvc/?username=Delta7Actual&label=Profile%20views&color=green&style=flat-square" alt="Profile Views" />
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Dror Sheffer!</h1>
-<h3 align="center">A developer and researcher passionate about low-level systems, high-level applications, reverse engineering, and malware analysis.</h3>
+<h3 align="center">Developer and researcher working on low-level systems, application development, and security analysis.</h3>
+<h5>Note: Commits look a bit uneven due to a recent repository migration.</h5>
 
 ---
 
-<h3 align="left">🔭 Projects & Current Focus:</h3>
+<h3 align="left">🔭 Focus & Projects:</h3>
 
-- Building **SNVM32** and the **Super‑Neat Environment (SNE)** - a virtual machine and minimal OS.
-- Developing **low-level tools**, including debuggers and memory inspectors.
-- Researching **system internals** and OS development concepts.
+- **SNVM32 & SNE:** Building a custom virtual machine and minimal operating system environment.
+- **System Tools:** Developing low-level software like debuggers and memory inspectors.
+- **OS Internals:** Exploring kernel concepts and operating system design.
 
-<h3 align="left">🔎 Currently Exploring & Learning:</h3>
+<h3 align="left">🔎 Learning & Research:</h3>
 
-- **Reverse Engineering** techniques with Ghidra, IDA, and Binary Ninja.
-- **Malware Analysis** workflows and dynamic analysis techniques.
-- **Operating System Development** and kernel-level programming.
-- **Exploit Development** and vulnerability research.
+- **Reverse Engineering:** Analyzing binaries using tools like Ghidra, IDA, and Binary Ninja.
+- **Malware Analysis:** Studying threat mechanics and dynamic analysis workflows.
+- **Vulnerability Research:** Understanding modern exploit development and system security.
 
 <h3 align="left">📫 Contact:</h3>
 
 - Email: [dror8464@gmail.com](mailto:dror8464@gmail.com)
+- Gitlab: [Delta7Actual](https://gitlab.com/Delta7Actual) (I'll probably be more active here)
 - Leetcode: [Delta7Actual](https://leetcode.com/Delta7Actual)
 
 ---
